@@ -1,0 +1,171 @@
+body{
+   
+    background-color: grey;
+}
+.one{
+    align-items: center;
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px 10px;
+    width: 300px;
+    font-size: 26px;
+    padding: 20px;
+    text-align: center;
+    color: blueviolet;
+    font-weight: bolder;
+    box-shadow: 7px 7px rgba(153, 11, 158, 0.856);
+    font-style: italic;
+    margin: auto;
+}
+.main{
+    border: 6px solid green;
+}
+.main1{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    
+}
+.main2{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-between;
+    padding-top: 40px;
+    
+}
+.two{
+    float: left;
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px 10px;
+    width: 300px;
+    font-size: 26px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(23, 14, 31);
+    font-weight: bolder;
+    box-shadow: 7px 7px rgba(153, 11, 158, 0.856);
+}
+
+.three{
+    
+   float: right;
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px 10px;
+    width: 300px;
+    font-size: 26px;
+    
+    padding: 20px;
+    text-align: center;
+    color: rgb(23, 14, 31);
+    font-weight: bolder;
+    box-shadow: 7px 7px rgba(153, 11, 158, 0.856);
+}
+.four{
+    
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px 10px;
+    width: 300px;
+    font-size: 26px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(23, 14, 31);
+    font-weight: bolder;
+    box-shadow: 7px 7px rgba(153, 11, 158, 0.856);
+}
+.five{
+    
+    background-color: rgb(113, 241, 62);
+    border: 5px solid red;
+    border-radius: 10px 10px;
+    width: 400px;
+    height: 60px;
+    display: flex;
+    position: fixed;
+    font-size: 26px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(23, 14, 31);
+    font-weight: bolder;
+    box-shadow: 7px 7px rgba(153, 11, 158, 0.856);
+    left: 450px;
+}
+.seven{
+    color: brown;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+.eight{
+    font-size: 18px;
+    color: brown;
+    
+    font-style: italic;
+    font-weight: bold;
+}
+label{
+    font-size: 18px;
+}
+.six{
+    background-color: white;
+    border: 5px solid red;
+    border-radius: 10px 10px;
+    width: 300px;
+    font-size: 26px;
+    padding: 20px;
+    text-align: center;
+    color: rgb(23, 14, 31);
+    font-weight: bolder;
+    box-shadow: 7px 7px rgba(153, 11, 158, 0.856);
+}
+button{
+    background-color: rgb(95, 8, 95);
+    color: white;
+    border-radius: 30px;
+}
+.bottom{
+    border: 5px solid purple;
+    background-color: green;
+    width: 900px;
+    
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 26px;
+    padding: 20px;
+    font-weight: bold;
+}
+.bmain{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    font-weight: normal;
+}
+.bone{
+    background-color: antiquewhite;
+    text-align: center;
+    width: 400px;
+    font-size: 16px;
+}
+.btwo{
+    background-color: antiquewhite;
+    text-align: center;
+    width: 400px;
+    font-size: 16px;
+}
+p{
+    line-height: 30px;
+}
+.second{
+    font-size: 16px;
+    margin: 40px 0px 0px 60px;
+    
+}
+.bthree{
+    background-color: antiquewhite;
+    text-align: center;
+    width: 800px;
+    font-size: 16px;
+}
